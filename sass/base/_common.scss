@@ -67,7 +67,7 @@ ul {
     transition: background-color 250ms $timing-function;
 }
 
-.nav-link:hover,
+.nav-link:hover:hover,
 .nav-link:focus {
     color: $accent-color;
 }
